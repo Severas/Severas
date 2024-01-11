@@ -1,6 +1,6 @@
 # 👋🏻 David Marcelo Gois
 
-Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizado, musica e entusiasta de Eletrônica nas horas vagas.
+Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizado, musica e entusiasta de eletrônica nas horas vagas.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
@@ -16,8 +16,8 @@ Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizad
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
-  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
 
 ### GitHub Stats
 
