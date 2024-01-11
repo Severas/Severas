@@ -24,6 +24,6 @@ Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizad
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Severas}&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Severas}&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Severas&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&theme=blue-green)
 
