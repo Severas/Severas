@@ -26,5 +26,5 @@ My Languages: Native Portuguese, native Spanish and I understand English, I have
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Severas&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&layout=pie&theme=blue-green)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&layout=pie&theme=blue-green)](https://github.com/Severas/github-readme-stats)
 
