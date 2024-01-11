@@ -24,7 +24,5 @@ My Languages: Native Portuguese, native Spanish and I understand English, I have
 ![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=white)
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Severas&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&layout=pie&theme=blue-green)](https://github.com/Severas/github-readme-stats)
-
+![Severas GitHub stats](https://github-readme-stats.vercel.app/api?username=Severas&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&layout=compact&theme=blue-green)
