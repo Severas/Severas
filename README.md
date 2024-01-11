@@ -1,11 +1,10 @@
 # 👋🏻 David Marcelo Gois
 
-Desenvolvedor Back-end em constante evolução, apaixonado pelo aprendizado e nerd nas horas vagas.
+Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizado, musica e entusiasta de Eletrônica nas horas vagas.
 
 ### Conecte-se comigo
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/davidmarcelo2015)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/davidmarcelo2015)
 
 ### Habilidades
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
