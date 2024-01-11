@@ -1,12 +1,12 @@
 # David Marcelo Gois 👋🏻 
 
-Desenvolvedor Back-end em constante evolução, apaixonado por games, aprendizado, musica e entusiasta de eletrônica nas horas vagas.
+Back-end developer in constant evolution, I currently live in the interior of Paraná in the city of Toledo in Brazil. My main hobbies are music, gym, gaming, studying random subjects and being an electronics enthusiast.
 
-### Conecte-se comigo
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/davidmarcelo2015)
 
-### Habilidades
+### Skills
 ![C](https://img.shields.io/badge/C-00000C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) 
