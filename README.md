@@ -8,7 +8,7 @@ My Languages: Native Portuguese, native Spanish and I understand English, I have
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/davidmarcelo2015)
 
 ### Skills
-![C](https://img.shields.io/badge/C-00000C?style=for-the-badge&logo=c&logoColor=white)(https://github.com/Severas/data-structure-two/blob/main/Trabalho%201/main.c)
+[![C](https://img.shields.io/badge/C-00000C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Severas/data-structure-two/blob/main/Trabalho%201/main.c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
