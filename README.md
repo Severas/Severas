@@ -20,7 +20,3 @@ My Languages: Native Portuguese, native Spanish and advanced English (but with a
 [![Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/Man_page_)
 [![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://learn.microsoft.com/pt-br/windows/deployment/planning/sua-users-guide)
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
