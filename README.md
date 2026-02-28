@@ -1,7 +1,7 @@
 # David Marcelo Gois 👋🏻 
 
 Back-end Developer in constant evolution, I currently live in the interior of Paraná in the city of Toledo in Brazil. My main hobbies are music, gym, gaming, studying random subjects and being an electronics enthusiast.
-My Languages: Native Portuguese, native Spanish and I understand English, I have difficulty pronouncing it correctly.
+My Languages: Native Portuguese, native Spanish and advanced English (but with an accent).
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
