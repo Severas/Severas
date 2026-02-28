@@ -4,7 +4,7 @@ Back-end Developer in constant evolution, I currently live in the interior of Pa
 My Languages: Native Portuguese, native Spanish and advanced English (but with an accent).
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-m-gois-351489205/)
 
 
 ### Skills
