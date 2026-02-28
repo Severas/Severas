@@ -21,9 +21,3 @@ My Languages: Native Portuguese, native Spanish and advanced English (but with a
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/Man_page_)
 [![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://learn.microsoft.com/pt-br/windows/deployment/planning/sua-users-guide)
-[![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/guide)
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Severas&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Severas&layout=compact&theme=highcontrast)
