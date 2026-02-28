@@ -5,7 +5,7 @@ My Languages: Native Portuguese, native Spanish and advanced English (but with a
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/david-marcelo-gois-351489205/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/davidmarcelo2015)
+
 
 ### Skills
 [![C](https://img.shields.io/badge/C-00000C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Severas/data-structure-two/blob/main/Trabalho%201/main.c)
