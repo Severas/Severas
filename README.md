@@ -17,7 +17,5 @@ My Languages: Native Portuguese, native Spanish and advanced English (but with a
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/pt-br/5.0/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/docs/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/Man_page_)
 [![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)](https://learn.microsoft.com/pt-br/windows/deployment/planning/sua-users-guide)
